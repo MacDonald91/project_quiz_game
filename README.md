@@ -30,15 +30,7 @@ Correct!
 You got 4 questions correct!
 You got   
  100.0%.
-Customization:
 
-This code provides a basic framework. Feel free to modify it to:
 
-Add more questions about different computer components.
-Change the difficulty level of the questions.
-Implement a timer or limit the number of attempts per question.
-Include sound effects or visual elements for a more engaging experience.
-Requirements:
 
-Python 3 (or later)
 Enjoy the quiz and test your computer knowledge!
